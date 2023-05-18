@@ -1,0 +1,29 @@
+/*F U E N T E*/
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@100;300;400;600;800&display=swap');
+
+/*reset*/
+
+@import "./reset/resets";
+
+/*I N I C I O(index)*/
+@import "./html/_inicio.scss";
+
+
+/* S O B R E    M I*/
+
+@import "./html/sobremi";
+
+/*S K I L L S*/
+
+@import  "./html/_skills.scss";
+
+/* P O R T A F O L I O*/
+@import  "./html/_portafolio.scss";
+
+
+/*C U R R I C U L U M*/
+@import "./html/_curriculum.scss";
+
+/*C O N T A C T O*/
+@import  "./html/_contacto.scss";
+
